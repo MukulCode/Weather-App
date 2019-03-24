@@ -21,8 +21,8 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Project Created by Ferdousur Rahman Shajib
-    // www.androstock.com
+    // Project Created by Mukul Kumar(Mukulcode)
+
 
     TextView selectCity, cityField, detailsField, currentTemperatureField, humidity_field, pressure_field, weatherIcon, updatedField;
     ProgressBar loader;

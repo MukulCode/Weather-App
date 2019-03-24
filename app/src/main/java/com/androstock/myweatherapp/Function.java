@@ -11,8 +11,8 @@ import java.util.Date;
 
 public class Function {
 
-    // Project Created by Ferdousur Rahman Shajib
-    // www.androstock.com
+    // Project Created by Mukul Kumar(Mukulcode)
+
 
     public static boolean isNetworkAvailable(Context context)
     {
